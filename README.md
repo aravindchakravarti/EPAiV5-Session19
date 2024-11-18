@@ -3,7 +3,8 @@ EPAiV5 Session 19 assignment - Classes Part 1
 
 # Smart Device Management System
 
-![Build Status](https://github.com/aravindchakravarti/EPAiV5-Session19/actions/workflows/python-app.yml/badge.svg)
+![Build Status](https://github.com/aravindchakravarti/EPAiV5-Session19/actions/workflows/python-app-1.yml/badge.svg)
+
 
 ## Overview
 This project implements a Smart Device Management System in Python, providing a flexible and extensible framework for handling IoT devices. The system includes features for device status tracking, online/offline management, and custom device information handling.

@@ -50,7 +50,7 @@ def custom_info():
     return f"Security Device: {device.device_name}"
 # Set custom device info
 device.device_info = custom_info
-
+```
 
 ## Key Classes
 
